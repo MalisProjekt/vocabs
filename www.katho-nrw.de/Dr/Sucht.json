@@ -1,0 +1,280 @@
+{
+  "id": "http://www.katho-nrw.de/Dr/Sucht",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Sucht",
+    "en": "Addiction"
+  },
+  "definition": {
+    "de": "Systematik zum Thema Sucht",
+    "en": "Systematic approach to addiction"
+  },
+  "narrower": [
+    {
+      "id": "http://www.katho-nrw.de/Dro/Allgemeine-Literatur",
+      "prefLabel": {
+        "de": "Dro/Allgemeine Literatur",
+        "en": "Dro/General literature"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Dra/Suchtkrankenhilfe,-Suchtmedizin,-Sozialarbeit-im-Suchtbereich",
+      "prefLabel": {
+        "de": "Dra/Suchtkrankenhilfe, Suchtmedizin, Sozialarbeit im Suchtbereich",
+        "en": "Dra/Addiction treatment, addiction medicine, social work in the field of addiction"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drb/Suchtprävention",
+      "prefLabel": {
+        "de": "Drb/Suchtprävention",
+        "en": "Drb/Addiction prevention"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drc/Alkoholismus",
+      "prefLabel": {
+        "de": "Drc/Alkoholismus",
+        "en": "Drc/Alcoholism"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drd/Alkoholismustherapie",
+      "prefLabel": {
+        "de": "Drd/Alkoholismustherapie",
+        "en": "Drd/Alcoholism therapy"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Dre/Jugendalkoholismus",
+      "prefLabel": {
+        "de": "Dre/Jugendalkoholismus",
+        "en": "Dre/Youth alcoholism"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drf/Eltern-Sucht-Kind,-Kinder-und-Drogen",
+      "prefLabel": {
+        "de": "Drf/Eltern-Sucht-Kind, Kinder und Drogen",
+        "en": "Drf/Parent-addiction-child, children and drugs"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drg/Frauen-und-Sucht",
+      "prefLabel": {
+        "de": "Drg/Frauen und Sucht",
+        "en": "Drg/Women and addiction"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drk/Drogen-(einzelne-Arten)",
+      "prefLabel": {
+        "de": "Drk/Drogen (einzelne Arten)",
+        "en": "Drk/Drugs (individual species)"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drl/Drogenabhängigkeit",
+      "prefLabel": {
+        "de": "Drl/Drogenabhängigkeit",
+        "en": "Drl/Drug addiction"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drm/Drogenberatung,-Drogenarbeit",
+      "prefLabel": {
+        "de": "Drm/Drogenberatung,-Drogenarbeit",
+        "en": "Drm/Drug-counseling, Drug-work"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drn/Jugend-und-Drogenmissbrauch",
+      "prefLabel": {
+        "de": "Drn/Jugend-und-Drogenmissbrauch",
+        "en": "Drn/Youth-and-drug-abuse"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drp/Drogentherapie,-Suchttherapie,-Substitutionstherapie",
+      "prefLabel": {
+        "de": "Drp/Drogentherapie,-Suchttherapie,-Substitutionstherapie",
+        "en": "Drp/Drug-therapy,-addiction-therapy,-substitution-therapy"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drr/Drogenpolitik",
+      "prefLabel": {
+        "de": "Drp/Drogenpolitik",
+        "en": "Drr/Drug-policy"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drs/Medikamentenabhängigkeit",
+      "prefLabel": {
+        "de": "Drs/Medikamentenabhängigkeit",
+        "en": "Drs/Medication-dependency"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drt/Rauchen",
+      "prefLabel": {
+        "de": "Drt/Rauchen",
+        "en": "Drt/smoking"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Dru/Stoffungebundene-Sucht-(Glücksspiel,-Online-Sucht-etc.)",
+      "prefLabel": {
+        "de": "Dru/Stoffungebundene-Sucht-(Glücksspiel,-Online-Sucht-etc.)",
+        "en": "Dru/Non-substance-related-addiction (gambling, online addiction, etc.)"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drv/Partydrogen:-Ecstasy-etc.",
+      "prefLabel": {
+        "de": "Drv/Partydrogen:-Ecstasy-etc.",
+        "en": "Drv/Party-drugs:-ecstasy-etc."
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drw/Betriebliche-Suchtberatung",
+      "prefLabel": {
+        "de": "Drw/Betriebliche-Suchtberatung",
+        "en": "Drw/Company-addiction-counseling"
+      }
+    },
+    {
+      "id": "http://www.katho-nrw.de/Drx/Sucht-im-Alter",
+      "prefLabel": {
+        "de": "Drx/Sucht-im-Alter",
+        "en": "Drx/Addiction-in-old-age"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "http://www.katho-nrw.de/",
+      "title": {
+        "de": "Fachsystematikausschnitt Dr für Sucht",
+        "en": "Specialist system extract Dr for addiction"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "http://www.katho-nrw.de/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "http://www.katho-nrw.de/",
+      "title": {
+        "de": "Fachsystematikausschnitt Dr für Sucht",
+        "en": "Specialist system extract Dr for addiction"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    }
+  }
+}
