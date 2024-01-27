@@ -78,11 +78,11 @@ jobs:
 
       - run: chmod -R 777 data # user in container is node which won't have write access to public
 
-      - run: git clone https://github.com/acka47/kh-koeln-sys.git data/ # <-- add link to your repo here
+      - run: git clone https://github.com/malisprojekt/vocabs.git data/ # <-- add link to your repo here
 
       - name: make .env file
 
-        run: echo "BASEURL=/kh-koeln-sys" > .env
+        run: echo "BASEURL=/vocabs" > .env
 
       - name: build public dir with docker image
         run: >
