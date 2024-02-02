@@ -4,7 +4,7 @@
 
 
 ### Einleitung
-Kontrollierte Vokabulare sind ein bedeutsamer Bestandteil der Arbeit von Bibliotheken, da sie eine strukturierte Wissensorganisation ermöglichen. Für die technische Umsetzung bieten sich die Tools RDF sowie SKOS an, um die Struktur und den Inhalt zu definieren. Als Basis für das vorliegende Projekt und die Publikation eines kontrollierten Vokabulars mit SkoHub Vocabs wurde die Systematik der des Standorts Köln der Katholischen Hochschulbibliothek gewählt. Aufgrund der Vorteile des Datenstandards erscheint die Anwendung für die Darstellung der Systematik einer wissenschaftlichen Bibliothek als sinnvoll. Zweck ist es, dass das kontrollierte Vokabular die Suche in den spezifischen Wissensgebieten strukturiert und vereinfacht. Hierzu trägt unter anderem die Maschinenlesbarkeit bei. 
+Kontrollierte Vokabulare sind ein bedeutsamer Bestandteil der Arbeit von Bibliotheken, da sie eine strukturierte Wissensorganisation ermöglichen. Für die technische Umsetzung bieten sich die Tools RDF sowie SKOS an, um die Struktur und den Inhalt zu definieren. Als Basis für das vorliegende Projekt und die Publikation eines kontrollierten Vokabulars mit SkoHub Vocabs wurde die Systematik des Standorts Köln der Katholischen Hochschulbibliothek gewählt. Aufgrund der Vorteile des Datenstandards erscheint die Anwendung für die Darstellung der Systematik einer wissenschaftlichen Bibliothek als sinnvoll. Zweck ist es, dass das kontrollierte Vokabular die Suche in den spezifischen Wissensgebieten strukturiert und vereinfacht. Hierzu trägt unter anderem die Maschinenlesbarkeit bei.
 
 ### Hierarchie und Beziehungen
 Die Systematik dieser Hochschulbibliothek eignet sich aufgrund ihrer hierarchischen Struktur sehr gut für die Erstellung eines Vokabulars. Die Systematik unterteilt die Themengebiete der Sach- und Fachmedien in fünfzig Kategorien und ordnet diesen jeweils Unterkategorien zu. Die Anzahl der Unterkategorien liegt zwischen einer und vierundsechzig Ordnungsbegriffen, was zur Folge hat, dass die Themenbereiche unterschiedlich detailliert systematisiert werden. Die Themengebiete sind den Unterkategorien hierarchisch übergeordnet, während sich die Unterkategorien auf der gleichen hierarchischen Ebene befinden. 
@@ -23,18 +23,20 @@ Die Festlegung einer Basis-Url, sowie die Definition der Identifier und des Voka
 2.	Die Notation im Kontext der Klassifikation, sowie die vollständige bevorzugte Bezeichnung des Begriffs der Unterkategorie in englischer Sprache.
 3.	Als allgemeine Notiz wird ergänzt, dass die Inhalte des Vokabulars um ausgedachte Ergebnisse ergänzt wurden, um die verwendeten Quellen klar zu definieren. 
 4.	Die Kurzdefinition des Begriffs enthält die Information, dass unter diesem Begriff Medien zum jeweiligen Thema zu finden sind. Dies ist in der konkreten Umsetzung jedoch nicht der Fall, sondern zeigt die Option auf.
-5.	Der direkte Oberbegriff, sowie der skos:broaderTransitive.
+5.	Der direkte Oberbegriff, sowie der `skos:broader`.
 
 Als Code ergibt sich so beispielsweise folgende Begriffsdefinition: 
 
-*<Dro/Allgemeine-Literatur> a skos:Concept ;
+```ttl
+<Dro/Allgemeine-Literatur> a skos:Concept ;
   skos:prefLabel "Dro/Allgemeine Literatur"@de, "Dro/General literature"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Allgemeine Literatur zum Thema Sucht"@de, "General literature on the subject of addiction"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
   skos:note: "Dieses Vokabular ist im Rahmen eines Projektes in einem Masterstudiengeang entstanden"@de, "his vocabulary was created as part of a project in a master's degree program"@en ;
   skos:inScheme <> .*
-  
+```
+
 Die Definierung der Unterbegriffe funktionierte, als hilfreich konstatierte sich hier die Möglichkeit der Überprüfung und Validierung des Teil-Vokabulars mittels „SKOS testing tool“, was bei entstanden Fehlern (beispielsweise versehentlich gesetzte Leerzeichen) den Bereich des Codes mit der Abweichung eingrenzte. Der Turtle Web Editor trug durch die Verwendung von unterschiedlichen Farben zu der Übersichtlichkeit des Codes und der schnellen Fehlerermittlung bei. Auch zeigte sich hier vor allem die Möglichkeit der Hilfestellung und Absprache in der Kleingruppe als sinnvoll. Nach der erfolgreichen Validierung des Vokabulars musste noch eine Entscheidung über die Visualisierung des Codes getroffen werden. Mithilfe des Tools SKOS Play! konnten verschiedene Visualisierungsoptionen getestet werden. Als am besten geeignet erschien aufgrund der Mehrsprachigkeit des Projekt-Vokabulars die Option „Complete edition – multilingual“.
   
 ### Lernziele
