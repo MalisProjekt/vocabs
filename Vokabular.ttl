@@ -20,7 +20,7 @@
   skos:topConceptOf <> .
 
 <Dro/Allgemeine-Literatur> a skos:Concept ;
-  skos:prefLabel "Dro/Allgemeine Literatur"@de, "Dro/General literature"@en ;
+  skos:prefLabel "Allgemeine Literatur"@de, "General literature"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Allgemeine Literatur zum Thema Sucht"@de, "General literature on the subject of addiction"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -28,7 +28,7 @@
   skos:inScheme <> .
 
 <Dra/Suchtkrankenhilfe,-Suchtmedizin,-Sozialarbeit-im-Suchtbereich> a skos:Concept ;
-  skos:prefLabel "Dra/Suchtkrankenhilfe, Suchtmedizin, Sozialarbeit im Suchtbereich"@de, "Dra/Addiction treatment, addiction medicine, social work in the field of addiction"@en ;
+  skos:prefLabel "Suchtkrankenhilfe, Suchtmedizin, Sozialarbeit im Suchtbereich"@de, "Addiction treatment, addiction medicine, social work in the field of addiction"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Suchtkrankenhilfe, Suchtmedizin, Sozialarbeit im Suchtbereich"@de, "Media on the topic Addiction treatment, addiction medicine, social work in the field of addiction"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -36,7 +36,7 @@
   skos:inScheme <> .
   
 <Drb/Suchtprävention> a skos:Concept ;
-  skos:prefLabel "Drb/Suchtprävention"@de, "Drb/Addiction prevention"@en ;
+  skos:prefLabel "Suchtprävention"@de, "Addiction prevention"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Suchtprävention"@de, "Media on the topic Addiction prevention"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -44,7 +44,7 @@
   skos:inScheme <> .
   
  <Drc/Alkoholismus> a skos:Concept ;
-  skos:prefLabel "Drc/Alkoholismus"@de, "Drc/Alcoholism"@en ;
+  skos:prefLabel "Alkoholismus"@de, "Alcoholism"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Alkoholismus"@de, "Media on the topic Alcoholism"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -52,7 +52,7 @@
   skos:inScheme <> .
   
  <Drd/Alkoholismustherapie> a skos:Concept ;
-  skos:prefLabel "Drd/Alkoholismustherapie"@de, "Drd/Alcoholism therapy"@en ;
+  skos:prefLabel "Alkoholismustherapie"@de, "Alcoholism therapy"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Alkoholismustherapie"@de, "Media on the topic Alcoholism therapy"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -60,7 +60,7 @@
   skos:inScheme <> .
     
  <Dre/Jugendalkoholismus> a skos:Concept ;
-  skos:prefLabel "Dre/Jugendalkoholismus"@de, "Dre/Youth alcoholism"@en ;
+  skos:prefLabel "Jugendalkoholismus"@de, "Youth alcoholism"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Jugendalkoholismus"@de, "Media on the topic Youth alcoholism"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -68,7 +68,7 @@
   skos:inScheme <> .
    
  <Drf/Eltern-Sucht-Kind,-Kinder-und-Drogen> a skos:Concept ;
-  skos:prefLabel "Drf/Eltern-Sucht-Kind, Kinder und Drogen"@de, "Drf/Parent-addiction-child, children and drugs"@en ;
+  skos:prefLabel "Eltern-Sucht-Kind, Kinder und Drogen"@de, "Parent-addiction-child, children and drugs"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Eltern-Sucht-Kind, Kinder und Drogen"@de, "Media on the topic Parent-addiction-child, children and drugs"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -76,7 +76,7 @@
   skos:inScheme <> .
   
  <Drg/Frauen-und-Sucht> a skos:Concept ;
-  skos:prefLabel "Drg/Frauen und Sucht"@de, "Drg/Women and addiction"@en ;
+  skos:prefLabel "Frauen und Sucht"@de, "Women and addiction"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Frauen und Sucht"@de, "Media on the topic Women and addiction"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -84,7 +84,7 @@
   skos:inScheme <> .
   
  <Drk/Drogen-(einzelne-Arten)> a skos:Concept ;
-  skos:prefLabel "Drk/Drogen (einzelne Arten)"@de, "Drk/Drugs (individual species)"@en ;
+  skos:prefLabel "Drogen (einzelne Arten)"@de, "Drugs (individual species)"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zu den einzelnen Drogenarten"@de, "Media on the individual types of drugs"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -92,7 +92,7 @@
   skos:inScheme <> .
    
  <Drl/Drogenabhängigkeit> a skos:Concept ;
-  skos:prefLabel "Drl/Drogenabhängigkeit"@de, "Drl/Drug addiction"@en ;
+  skos:prefLabel "Drogenabhängigkeit"@de, "Drug addiction"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Drogenabhängigkeit"@de, "Media on the topic Drug addiction"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -100,7 +100,7 @@
   skos:inScheme <> .
   
  <Drm/Drogenberatung,-Drogenarbeit> a skos:Concept ;
-  skos:prefLabel "Drm/Drogenberatung,-Drogenarbeit"@de, "Drm/Drug-counseling, Drug-work"@en ;
+  skos:prefLabel "Drogenberatung,-Drogenarbeit"@de, "Drug-counseling, Drug-work"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Drogenberatung und Drogenarbeit"@de, "Media on the topic Drug Counseling and Drug Work"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -108,7 +108,7 @@
   skos:inScheme <> .
   
  <Drn/Jugend-und-Drogenmissbrauch> a skos:Concept ;
-  skos:prefLabel "Drn/Jugend-und-Drogenmissbrauch"@de, "Drn/Youth-and-drug-abuse"@en ;
+  skos:prefLabel "Jugend-und-Drogenmissbrauch"@de, "Youth-and-drug-abuse"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Jugend und Drogenmissbrauch"@de, "Media on the topic Youth and Drug Abuse"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -116,7 +116,7 @@
   skos:inScheme <> .
   
  <Drp/Drogentherapie,-Suchttherapie,-Substitutionstherapie> a skos:Concept ;
-  skos:prefLabel "Drp/Drogentherapie,-Suchttherapie,-Substitutionstherapie"@de, "Drp/Drug-therapy,-addiction-therapy,-substitution-therapy"@en ;
+  skos:prefLabel "Drogentherapie,-Suchttherapie,-Substitutionstherapie"@de, "Drug-therapy,-addiction-therapy,-substitution-therapy"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Drogentherapie, Suchttherapie, Substitutionstherapie"@de, "Media on the topic Drug therapy, addiction therapy, substitution therapy"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -124,7 +124,7 @@
   skos:inScheme <> .
   
  <Drr/Drogenpolitik> a skos:Concept ;
-  skos:prefLabel "Drp/Drogenpolitik"@de, "Drr/Drug-policy"@en ;
+  skos:prefLabel "Drogenpolitik"@de, "Drug-policy"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Drogenpolitik"@de, "Media on the topic Drug policy"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -132,7 +132,7 @@
   skos:inScheme <> .
   
  <Drs/Medikamentenabhängigkeit> a skos:Concept ;
-  skos:prefLabel "Drs/Medikamentenabhängigkeit"@de, "Drs/Medication-dependency"@en ;
+  skos:prefLabel "Medikamentenabhängigkeit"@de, "Medication-dependency"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Medikamentenabhängigkeit"@de, "Media on the topic Medication dependency"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -140,7 +140,7 @@
   skos:inScheme <> .
   
  <Drt/Rauchen> a skos:Concept ;
-  skos:prefLabel "Drt/Rauchen"@de, "Drt/smoking"@en ;
+  skos:prefLabel "Rauchen"@de, "smoking"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Rauchen"@de, "Media on the topic Smoking"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -148,7 +148,7 @@
   skos:inScheme <> .
   
  <Dru/Stoffungebundene-Sucht-(Glücksspiel,-Online-Sucht-etc.)> a skos:Concept ;
-  skos:prefLabel "Dru/Stoffungebundene-Sucht-(Glücksspiel,-Online-Sucht-etc.)"@de, "Dru/Non-substance-related-addiction (gambling, online addiction, etc.)"@en ;
+  skos:prefLabel "Stoffungebundene-Sucht-(Glücksspiel,-Online-Sucht-etc.)"@de, "Non-substance-related-addiction (gambling, online addiction, etc.)"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Stoffungebundene Sucht (Glücksspiel, Online-Sucht etc.)"@de, "Media on the topic Non-substance-related addiction (gambling, online addiction, etc.)"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -156,7 +156,7 @@
   skos:inScheme <> .
   
  <Drv/Partydrogen:-Ecstasy-etc.> a skos:Concept ;
-  skos:prefLabel "Drv/Partydrogen:-Ecstasy-etc."@de, "Drv/Party-drugs:-ecstasy-etc."@en ;
+  skos:prefLabel "Partydrogen:-Ecstasy-etc."@de, "Party-drugs:-ecstasy-etc."@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Drogenabhängigkeit"@de, "Media on the topic Party drugs: ecstasy etc"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -164,7 +164,7 @@
   skos:inScheme <> .
   
  <Drw/Betriebliche-Suchtberatung> a skos:Concept ;
-  skos:prefLabel "Drw/Betriebliche-Suchtberatung"@de, "Drw/Company-addiction-counseling"@en ;
+  skos:prefLabel "Betriebliche-Suchtberatung"@de, "Company-addiction-counseling"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Betriebliche Suchtberatung"@de, "Media on the topic Company addiction counseling"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
@@ -172,7 +172,7 @@
   skos:inScheme <> .
   
  <Drx/Sucht-im-Alter> a skos:Concept ;
-  skos:prefLabel "Drx/Sucht-im-Alter"@de, "Drx/Addiction-in-old-age"@en ;
+  skos:prefLabel "Sucht-im-Alter"@de, "Addiction-in-old-age"@en ;
   skos:broader <Dr/Sucht> ;
   skos:definition "Medien zum Thema Sucht im Alter"@de, "Media on the topic Addiction in old age"@en ;
   skos:editorialNote "Dieses Beispiel wurde mit ausgedachten Inhalten ergänzt"@de, "This example was supplemented with fictitious content"@en ;
